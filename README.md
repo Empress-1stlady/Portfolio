@@ -7,7 +7,9 @@ Hello! I'm Abodunrin Deborah Odunayo😁, a data analyst, educator and consultan
 <!--Mention your top/relevant skills here- core and soft skills-->
 ## Skills
 a. ✅ Data cleaning and Transformation
+
 b. ✅ Data Wrangling
+
 c. ✅ 
 
 ## Projects
