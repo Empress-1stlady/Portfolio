@@ -4,7 +4,7 @@
 
 Hello! I'm Abodunrin Deborah Odunayo😁, a data analyst, educator and consultant with a passion for turning data into actionable insights. I help businesses solve challenges and unlock growth.
 
-<--Mention your top/relevant skills here- core and soft skills-->
+<!--Mention your top/relevant skills here- core and soft skills-->
 ## Skills
 
 ## Projects
