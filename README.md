@@ -9,6 +9,10 @@ Hello! I'm Abodunrin Deborah Odunayo😁, a data analyst, educator and consultan
 
 ## Projects
 a. I helped reduced the tension of alleged gender ineqality issue at Palmoria Group
+
 [Read More](https://github.com/Empress-1stlady/Palmoria-Gender-Analysis)
 
 ![DSA Palmoria Project-3](https://github.com/user-attachments/assets/b1e0c007-a5a1-4e8a-bc12-248fa518bf27)
+
+b. I 
+[Read More](https://github.com/Empress-1stlady/Kultra-Mega-Stores-Inventory)
